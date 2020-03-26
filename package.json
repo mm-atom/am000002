@@ -38,11 +38,8 @@
 	],
 	"license": "MIT",
 	"dependencies": {},
-	"peerDependencies": {
-		"@mmstudio/am000001": "*"
-	},
 	"devDependencies": {
-		"@mmstudio/am000001": "latest",
+		"@types/node": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"del-cli": "latest",
