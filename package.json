@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000002",
-	"version": "1.0.202003191559",
+	"version": "1.1.202003261648",
 	"description": "global set",
 	"scripts": {
 		"test": "tsc -w",
